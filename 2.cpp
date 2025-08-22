@@ -6,7 +6,6 @@ using namespace std;
 int main() {
     string fullName;
     int currentAge;
-    int targetAge = 33;
     int currentYear = 2025;
 
     cout << "Enter your full name: ";
@@ -22,3 +21,4 @@ int main() {
 
     return 0;
 }
+
